@@ -1,0 +1,24 @@
+2024-08-03 20:19:46 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
+2024-08-03 20:19:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-03 20:19:47 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2024-08-03 20:19:47 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-03 20:19:48 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-08-03 20:19:48 INFO  TC001_AccountRegistrationTest:51 - *** Finished TC001_AccountRegistrationTest ***
+2024-08-03 20:21:14 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
+2024-08-03 20:21:14 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-03 20:21:15 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2024-08-03 20:21:15 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-03 20:21:17 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-08-03 20:21:17 INFO  TC001_AccountRegistrationTest:51 - *** Finished TC001_AccountRegistrationTest ***
+2024-08-03 20:28:57 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
+2024-08-03 20:28:57 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-03 20:28:58 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2024-08-03 20:28:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-03 20:28:59 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-08-03 20:35:57 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
+2024-08-03 20:35:57 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-03 20:35:58 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
+2024-08-03 20:35:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-08-03 20:35:59 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-08-03 20:35:59 ERROR TC001_AccountRegistrationTest:47 - Test failed
+2024-08-03 20:35:59 DEBUG TC001_AccountRegistrationTest:48 - Debug logs..
