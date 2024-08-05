@@ -1,78 +1,79 @@
-2024-08-03 20:19:46 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 20:19:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 20:19:47 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 20:19:47 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 20:19:48 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 20:19:48 INFO  TC001_AccountRegistrationTest:51 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 20:21:14 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 20:21:14 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 20:21:15 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 20:21:15 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 20:21:17 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 20:21:17 INFO  TC001_AccountRegistrationTest:51 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 20:28:57 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 20:28:57 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 20:28:58 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 20:28:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 20:28:59 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 20:35:57 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 20:35:57 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 20:35:58 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 20:35:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 20:35:59 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 20:35:59 ERROR TC001_AccountRegistrationTest:47 - Test failed
-2024-08-03 20:35:59 DEBUG TC001_AccountRegistrationTest:48 - Debug logs..
-2024-08-03 21:28:27 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:28:27 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:28:28 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:28:28 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:28:29 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:28:29 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:28:48 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:28:48 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:28:49 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:28:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:28:50 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:28:50 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:33:48 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:33:48 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:33:49 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:33:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:33:51 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:33:51 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:33:55 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:33:55 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:33:56 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:33:56 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:33:57 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:33:57 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:34:06 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:34:06 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:34:07 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:34:07 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:34:08 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:34:08 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:34:48 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:34:48 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:34:48 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:34:48 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:34:49 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:34:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:34:49 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:34:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:34:49 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:34:50 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:34:50 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:34:50 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:34:51 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:34:51 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:34:51 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:34:51 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:34:52 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:34:52 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
-2024-08-03 21:45:16 INFO  TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2024-08-03 21:45:16 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link
-2024-08-03 21:45:17 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link
-2024-08-03 21:45:17 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-08-03 21:45:18 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-03 21:45:18 INFO  TC001_AccountRegistrationTest:55 - *** Finished TC001_AccountRegistrationTest ***
+2024-08-05 11:35:06 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2024-08-05 11:35:45 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2024-08-05 11:35:47 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
+2024-08-05 13:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-05 13:52:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-05 13:52:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-05 13:52:51 INFO  TC003_LoginDDT:16 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:52:54 INFO  TC003_LoginDDT:54 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:52:54 INFO  TC003_LoginDDT:16 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:52:57 INFO  TC003_LoginDDT:16 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:53:00 INFO  TC003_LoginDDT:16 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:53:11 INFO  TC003_LoginDDT:54 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:53:11 INFO  TC003_LoginDDT:16 - *** Starting TC003_LoginDDT ***
+2024-08-05 13:53:14 INFO  TC003_LoginDDT:54 - *** Starting TC003_LoginDDT ***
