@@ -88,7 +88,7 @@ git init
 6) push the code into remote repository.
    	git push origin master
 
-token: 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   (**Create your own Token)
+token: ++++++++++++++++   (**Create your own Token)
 
 
 
