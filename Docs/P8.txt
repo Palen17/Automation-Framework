@@ -88,10 +88,6 @@ git init
 6) push the code into remote repository.
    	git push origin master
 
-
-
-
-
 Round2
 ------
 1) git add -A
