@@ -1,0 +1,115 @@
+Day-55
+-------
+
+Run Tests using Maven pom.xml, Command Prompt & run.bat file. 
+----------------------------------------------------------------
+
+pom.xml
+----------
+dependencies --- download required dependency jar for project
+plugins  ---> to compile and run the project
+
+1) maven compiler plugin
+2) maven surefire plugin
+
+
+Install maven OS level
+--------------------
+https://maven.apache.org/download.cgi
+
+C:\Program Files\apache-maven-3.9.6\bin
+** configure the maven path in environment variable.
+
+open command prompt  -->   mvn -version
+
+
+Configure Maven path in Mac OS
+---------------------------
+In terminal, type echo $SHELL
+In terminal, type vi ~/.zshrc
+Press i for insert and type export MAVEN_HOME=$(/usr/libexec/maven_home)
+Press esc :wq
+
+In the terminal: 
+
+echo $MAVEN_HOME
+mvn -version
+
+
+----------------------------------------
+Git & GitHub
+----------------------------------------
+
+Project location:
+-------------------
+C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
+
+cd C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
+mvn test
+
+Pre-requisites
+-------------------
+1) Git installation
+2) create an account with GitHub & create remote repository then capture url
+	Account creation:  https://github.com/signup?source=login
+	repository url:  https://github.com/pavanoltraining/OpencartV121.git
+
+
+
+
+Git & GitHub workflow
+--------------------
+
+Round1
+----
+1)  create a new local repository  ( one time)
+git init
+
+
+2) provided user info to git repo. (one time)
+ 
+	git config --global user.name "your name"
+    	git config --global user.email "your email"
+
+
+3) Adding files/folders to staging/indexing
+    git add -A         -->add all the files and folders to staging
+    git add filename
+    git add *.java
+    git add foldername
+
+4) Commit the code into Local(git) repository
+	git commit -m "commit message"
+
+5) connect local repository with remote rep.(One time)
+	git remote add origin "https://github.com/pavanoltraining/OpencartV121.git"
+  
+
+6) push the code into remote repository.
+   	git push origin master
+
+token: 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   (**Create your own Token)
+
+
+
+Round2
+------
+1) git add -A
+2) git commit -m "commit message"
+3) git push origin master
+
+Pull the files from remote repository
+---------------
+git pull "https://github.com/pavanoltraining/OpencartV121.git"
+
+
+
+clone new repository to local system
+-------------------------
+git clone "https://github.com/pavanoltraining/testrepo.git"
+
+
+
+
+
+

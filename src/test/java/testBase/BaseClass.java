@@ -14,6 +14,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import java.io.File;
@@ -31,6 +32,7 @@ public class BaseClass {
     public static WebDriver driver;
     public Logger logger; //Log4j
     public Properties p;
+
 
     @BeforeClass(groups = {"Sanity", "Regression", "Master"})
     @Parameters({"os","browser"})
